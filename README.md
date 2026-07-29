@@ -1,6 +1,6 @@
-# Asset Recommender — a Claude Skill for Value Selling
+# Asset Recommender: Slack Skill for Value Selling
 
-A Slack-based Claude skill that helps sellers instantly find the right customer-facing assets to move a deal forward. The seller provides three inputs — customer name, industry, and deal stage — and the skill returns a curated, ordered set of resources: an industry-specific value PDF, one or two matched customer stories, and core business-value content.
+A Slack-based skill that helps sellers instantly find the right customer-facing assets to move a deal forward. The seller provides three inputs — customer name, industry, and deal stage — and the skill returns a curated, ordered set of resources: an industry-specific value PDF, one or two matched customer stories, and core business-value content.
 
 Built by a Product Marketing Manager to solve a real enablement problem: sellers know the assets *exist*, but finding the right one for a specific customer takes too long, so they either send nothing or send everything.
 
